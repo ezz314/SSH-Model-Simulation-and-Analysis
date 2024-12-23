@@ -61,19 +61,6 @@ This project explores the Su-Schrieffer-Heeger (SSH) model, a one-dimensional ti
 
 ---
 
-## **Sample Outputs**
-
-### **Energy Band Structure**
-![Energy Bands](images/energy_bands.png)
-
-### **Wavefunction Visualization**
-![Wavefunctions](images/wavefunctions.png)
-
-### **Berry Connection Plots**
-![Berry Connection](images/berry_connection.png)
-
----
-
 ## **Contributors**
 - [Mohamed Elhaitmy](https://github.com/ezz314)
 
